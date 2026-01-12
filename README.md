@@ -14,5 +14,10 @@ Basado en el análisis de datos, los perfiles de los países son los siguientes:
 2.  **Perú:** "Apatía estructural". La insatisfacción es casi total en la tercera edad, combinada con indiferencia política generalizada.
 3.  **Venezuela:** "Brecha generacional". Los adultos mayores defienden la democracia como ideal nostálgico, mientras los jóvenes muestran altos niveles de desconexión.
 
+Lo más llamativo es la diferencia del apoyo a la democracia en El Salvador y en Perú: un abrumador apoyo en el primero, mientras que dicho poyo casi no existe en el segundo país.
+
+<img width="1138" height="664" alt="image" src="https://github.com/user-attachments/assets/ee452b4f-24e2-43c2-8ba3-c31ed4953c0c" />
+
+
 ### 📂 Contenido
 * `LB2023.ipynb`: Notebook con todo el código de limpieza, transformación y visualización.
