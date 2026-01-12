@@ -1,4 +1,4 @@
-# 📊 La Crisis de la democracia en América Latina: Un análisis comparado
+# 📊 La crisis de la democracia en América Latina: Un análisis comparado
 
 ### Descripción
 Este proyecto analiza datos del **Latinobarómetro 2023** en Python con el objetivo de explorar la relación entre el apoyo teórico a la democracia y la satisfacción práctica con ella en tres países diferentes: **El Salvador, Perú y Venezuela**.
